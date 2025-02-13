@@ -14,5 +14,6 @@ Este proyecto está bajo la licencia **MIT**, por lo que puedes utilizarlo y mod
 
 ¡Espero que este tutorial te ayude a montar tu propio servidor de Minecraft en Raspberry Pi! 🎮🔥
 
-![JDK](Minecraft Server/media/jdk-download.png)
+![JDK](Minecraft%20Server/media/jdk-download.png)
+
 
